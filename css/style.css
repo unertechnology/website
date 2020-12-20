@@ -8,7 +8,7 @@ body {
 	font-family: 'Open Sans', sans-serif;
 }
 .brand {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Raleway', sans-serif;
 }
 html,
 body {
@@ -708,7 +708,7 @@ padding: 10px 0;
 	float: left;
 }
 .brand {
-	font-size: 25px;
+	font-size: 38px;
 	-webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
